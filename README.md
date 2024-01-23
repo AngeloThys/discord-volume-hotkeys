@@ -6,7 +6,9 @@ A simple AutoHotkey script that allows us to control discord volume with custom 
 2. Download AutoHotkey
 3. (Optional) Launch Script on startup
 ## SoundVolumeView
-In order for this script to work we need to install [SoundVolumeView](https://www.nirsoft.net/utils/sound_volume_view.html)
+In order for this script to work we need to install [SoundVolumeView]
+(https://www.nirsoft.net/utils/sound_volume_view.html)
+
 Download the following zip file on 64bit systems:
 `https://www.nirsoft.net/utils/soundvolumeview-x64.zip`
 
@@ -22,4 +24,5 @@ https://www.autohotkey.com/download/ahk-v2.exe
 We can launch the script manually by double clicking it.
 
 However, we can also launch the script on startup by placing it in the following dir:
+
 `C:\Users\{{your.username}}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
