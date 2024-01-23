@@ -10,6 +10,7 @@ In order for this script to work we need to install [SoundVolumeView]
 (https://www.nirsoft.net/utils/sound_volume_view.html)
 
 Download the following zip file on 64bit systems:
+
 `https://www.nirsoft.net/utils/soundvolumeview-x64.zip`
 
 Unzip the file and drag the `.exe` to `C:\Windows\` so that it is included in the `$PATH`
